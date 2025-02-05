@@ -10,3 +10,7 @@ Answer: Data science could be applied to the field of medicine. For example, if 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines the histories of some Branch A and the main branch in Branch A into a new commit, while rebasing would take all the commits from main onto the latest committed version of the Branch A. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning how to create machine learning models and make new insights on the topic of my final project!
